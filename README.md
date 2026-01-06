@@ -66,5 +66,5 @@ Palindrome strings
 
 Palindrome words or sentences
 OUTPUT SCREENSHOT:-
-"C:\Users\nitish kumar rajak\OneDrive\Pictures\Screenshots\Screenshot 2026-01-04 180241.png"
-"C:\Users\nitish kumar rajak\OneDrive\Pictures\Screenshots\Screenshot 2026-01-04 180336.png"
+<img width="1635" height="850" alt="Screenshot 2026-01-04 180241" src="https://github.com/user-attachments/assets/6f867da1-7a09-4053-8086-17122d54e554" />
+<img width="1650" height="792" alt="Screenshot 2026-01-04 180336" src="https://github.com/user-attachments/assets/06ece080-c592-423b-8b22-f7419e14c9a7" />
